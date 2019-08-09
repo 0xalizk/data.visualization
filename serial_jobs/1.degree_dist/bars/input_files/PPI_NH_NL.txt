@@ -1,0 +1,4 @@
+Protein-protein interaction (PPI) network  edge_files/Vinayagam.txt
+No-hubs (NH) network  edge_files/NH_Vinayagam.txt
+No-leaves (NL) network  edge_files//NL_Vinayagam.txt
+Random (RN) network edge_files/RN_Vinayagam.txt

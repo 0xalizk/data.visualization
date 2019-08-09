@@ -1,0 +1,2 @@
+PPI /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/fig/03.likely_interactors/edge_files/Vinayagam.txt
+ER PPI /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/fig/03.likely_interactors/edge_files/ER_Vinayagam.txt

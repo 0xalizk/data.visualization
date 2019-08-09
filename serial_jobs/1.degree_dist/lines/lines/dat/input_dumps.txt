@@ -1,0 +1,34 @@
+#Human ../dat/dumps/Human.dump
+
+HumanIso ../dat/dumps/HumanIso.dump
+@
+Worm ../dat/dumps/Worm.dump
+Fly ../dat/dumps/Fly.dump
+Yeast ../dat/dumps/Yeast.dump
+Bacteria ../dat/dumps/Bacteria.dump
+Plant ../dat/dumps/Plant.dump
+@
+#NH Bacteria ../dat/dumps/NH_Bacteria.dump
+#NH Fly ../dat/dumps/NH_Fly.dump
+#NH Human ../dat/dumps/NH_Human.dump
+#NH HumanIso ../dat/dumps/NH_HumanIso.dump
+#NH Plant ../dat/dumps/NH_Plant.dump
+#NH Worm ../dat/dumps/NH_Worm.dump
+#NH Yeast ../dat/dumps/NH_Yeast.dump
+@
+NL Bacteria ../dat/dumps/NL_Bacteria.dump
+NL Fly ../dat/dumps/NL_Fly.dump
+NL Human ../dat/dumps/NL_Human.dump
+NL HumanIso ../dat/dumps/NL_HumanIso.dump
+NL Plant ../dat/dumps/NL_Plant.dump
+NL Worm ../dat/dumps/NL_Worm.dump
+NL Yeast ../dat/dumps/NL_Yeast.dump
+
+RN Bacteria ../dat/dumps/RN_Bacteria.dump
+RN Fly ../dat/dumps/RN_Fly.dump
+RN Human ../dat/dumps/RN_Human.dump
+RN HumanIso ../dat/dumps/RN_HumanIso.dump
+RN Plant ../dat/dumps/RN_Plant.dump
+RN Worm ../dat/dumps/RN_Worm.dump
+RN Yeast ../dat/dumps/RN_Yeast.dump
+@

@@ -1,0 +1,7 @@
+Plant /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/PPIs/NH_Plant-PPI.dump
+Bacteria /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/PPIs/NH_Bacteria-PPI.dump
+Yeast /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/PPIs/NH_Yeast-PPI.dump
+Worm /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/PPIs/NH_Worm-PPI.dump
+Fly /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/PPIs/NH_Fly-PPI.dump
+Human /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/PPIs/NH_Human-PPI.dump
+Human Iso /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/PPIs/NH_Human-PPI-Iso.dump

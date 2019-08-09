@@ -1,0 +1,2 @@
+SIN Human /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/fig/02.degree-dist/edge_files/Gerstein_human.txt
+SIN Yeast /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/fig/02.degree-dist/edge_files/Gerstein_yeast.txt

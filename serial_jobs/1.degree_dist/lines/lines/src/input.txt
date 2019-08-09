@@ -1,0 +1,26 @@
+@
+Deterministically Grown eterministically Grown  /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_09/deterministically_grown.dump
+ER analog /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_09/ER_N100_E200.dump
+@
+@
+Plant /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/originals/Plant_orig.dump
+Bacteria /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/originals/Bacteria_orig.dump
+Yeast /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/originals/Yeast_orig.dump
+Worm /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/originals/Worm_orig.dump
+Fly /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/originals/Vinayagam.dump
+Human /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/originals/Human_orig.dump
+HumanIso /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/originals/HumanIso_orig.dump
+HumanReg /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/08.deg_dist_prediction/data/dumps/other/TRRUST.dump
+
+Chemical /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_02_03/z-misc/Even_More_Networks/Neural/Worm/male/cleaned/male_full_edgelist_clean_chemical_only.csv
+Electrical /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_02_03/z-misc/Even_More_Networks/Neural/Worm/male/cleaned/male_full_edgelist_clean_electrical_only.csv
+@
+@
+Human /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_08/z-misc/regulatory_networks/Human/Human-ENCODE-GM.txt
+Bacteria /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_08/z-misc/regulatory_networks/Bacteria/Bacteria-RegulonDB.txt
+Mouse-Liu /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_08/z-misc/regulatory_networks/Mouse/Mouse-Liu.txt
+Mouse-miRTarBase /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_08/z-misc/regulatory_networks/Mouse/Mouse-miRTarBase.txt
+@
+#Bacteria /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/src/lines/dat/dumps/Bacteria.dump
+Fly /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/src/lines/dat/dumps/Fly.dump
+Synthetic /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Papers/Paper_09/src/v5/deterministically_grown.dump

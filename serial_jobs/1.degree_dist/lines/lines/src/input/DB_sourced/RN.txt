@@ -1,0 +1,9 @@
+Plant-BioGrid /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Plant-BioGrid.dump
+Plant-PSICQUIC /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Plant-PSICQUIC.dump
+Worm-BioGrid /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Worm-BioGrid.dump
+Yeast-BioGrid /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Yeast-BioGrid.dump
+Yeast-PSICQUIC /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Yeast-PSICQUIC.dump
+Fly-BioGrid /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Fly-BioGrid.dump
+Mouse-BioGrid /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Mouse-BioGrid.dump
+Human-BioGrid /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Human-BioGrid.dump
+Human-PSICQUIC /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/DB_sourced/RN_Human-PSICQUIC.dump

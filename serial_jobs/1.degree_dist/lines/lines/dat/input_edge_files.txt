@@ -1,0 +1,32 @@
+Human ../dat/edge_files/Human.txt
+HumanIso ../dat/edge_files/HumanIso.txt
+Worm ../dat/edge_files/Worm.txt
+Fly ../dat/edge_files/Fly.txt
+Yeast ../dat/edge_files/Yeast.txt
+Bacteria ../dat/edge_files/Bacteria.txt
+Plant../dat/edge_files/Plant.txt
+
+#NH Bacteria ../dat/edge_files/NH_Bacteria.txt
+#NH Fly ../dat/edge_files/NH_Fly.txt
+#NH Human ../dat/edge_files/NH_Human.txt
+#NH HumanIso ../dat/edge_files/NH_HumanIso.txt
+#NH Plant ../dat/edge_files/NH_Plant.txt
+#NH Worm ../dat/edge_files/NH_Worm.txt
+#NH Yeast ../dat/edge_files/NH_Yeast.txt
+@
+NL Bacteria ../dat/edge_files/NL_Bacteria.txt
+NL Fly ../dat/edge_files/NL_Fly.txt
+NL Human ../dat/edge_files/NL_Human.txt
+NL HumanIso ../dat/edge_files/NL_HumanIso.txt
+NL Plant ../dat/edge_files/NL_Plant.txt
+NL Worm ../dat/edge_files/NL_Worm.txt
+NL Yeast ../dat/edge_files/NL_Yeast.txt
+
+RN Bacteria ../dat/edge_files/RN_Bacteria.txt
+RN Fly ../dat/edge_files/RN_Fly.txt
+RN Human ../dat/edge_files/RN_Human.txt
+RN HumanIso ../dat/edge_files/RN_HumanIso.txt
+RN Plant ../dat/edge_files/RN_Plant.txt
+RN Worm ../dat/edge_files/RN_Worm.txt
+RN Yeast ../dat/edge_files/RN_Yeast.txt
+@

@@ -1,0 +1,4 @@
+ER /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/fig/02.degree-dist/edge_files/ER_Vinayagam.txt
+100% edges re-assigned randomly /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/deformed_PPI/deform/deformed_100.txt
+50% edges re-assigned randomly /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/deformed_PPI/deform/deformed_50.0.txt
+25% edges re-assigned randomly  /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/v2/deformed_PPI/deform/deformed_25.0.txt

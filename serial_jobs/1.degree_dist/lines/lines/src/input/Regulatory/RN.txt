@@ -1,0 +1,9 @@
+Bacteria-RegulonDB /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Bacteria-RegulonDB.dump
+Human-ENCODE-Proximal /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Human-ENCODE-Proximal.dump
+Human-ENCODE-GM /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Human-ENCODE-GM.dump
+Human-ENCODE-K562 /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Human-ENCODE-K562.dump
+Human-Liu /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Human-Liu.dump
+Human-TRRUST /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Human-TRRUST.dump
+Human-miRTarBase /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Human-miRTarBase.dump
+Mouse-Liu /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Mouse-Liu.dump
+Mouse-miRTarBase /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Figures/02.degree-dist/data/Regulatory/RN_Mouse-miRTarBase.dump

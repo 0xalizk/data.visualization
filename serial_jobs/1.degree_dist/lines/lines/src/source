@@ -1,0 +1,8 @@
+python degree.py input/PPI/RN.txt
+python degree.py input/PPI/NH.txt
+python degree.py input/Regulatory/NL.txt
+python degree.py input/Regulatory/NH.txt
+python degree.py input/Regulatory/RN.txt
+python degree.py input/DB_sourced/NL.txt
+python degree.py input/DB_sourced/NH.txt
+python degree.py input/DB_sourced/RN.txt
