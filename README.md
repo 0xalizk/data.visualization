@@ -22,8 +22,8 @@ Typical output would a number of PNG files containing a dynamic number (specifie
 
 ## Usage
 
-If you run massively parallel simulations that needs to be followed by data analysis / visualization, follow the instructions under crunchNplot/ directory. This is worth if:
+If you run massively parallel simulations that needs to be followed by data analysis / visualization, follow the instructions under `parallel_jobs/` directory. This is worth if:
 1. You continously run HPC simulations and want to add an auto data crunching / visualization step at the end of each simulation job.
 2. You do not want to tweak matplotlib parameters after every simulation in order to get a decent looking subplot file (e.g. not wanting to adjust font size every time the number of subplots in the figure increases or decreases).
 
-If you just have data and want to get subplots similar to the examples above, see the Examples/ directory, you should be able to get going just by editing the `configs.txt` file
+If you just have data and want to get subplots similar to the examples above, see the `serial_jobs/` directory, you should be able to get going just by editing the `configs.txt` file
