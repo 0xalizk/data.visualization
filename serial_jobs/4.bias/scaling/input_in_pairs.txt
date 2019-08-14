@@ -1,0 +1,4 @@
+#PPI /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/02.degree-dist/src/edge_files/Vinayagam.txt
+#NH /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/02.degree-dist/src/edge_files/NH_Vinayagam.txt
+#NL /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/02.degree-dist/src/edge_files/NL_Vinayagam.txt
+RN /Users/mohammedalshamrani/Downloads/School/Waldispul/Publishing/Paper_01/fig/02.degree-dist/src/edge_files/RN_Vinayagam.txt

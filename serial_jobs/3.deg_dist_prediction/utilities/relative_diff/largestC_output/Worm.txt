@@ -1,0 +1,5 @@
+==================== relative ====================
+'Worm':             [0.29, 1.7]    accuracy = -2031.18081579
+root says: done, all processes have terminated. Goodbye!
+
+
