@@ -1,6 +1,6 @@
 ## Massively parallel data analysis and visualization
 
-The code in `crunchNplot` follows a master-slaves model whereby the master loads a config file describing the task at hand (e.g. where the raw data is, plotting parameters etc) and fires up the required number of workers to each work on a certain subplot. Ultimately the result is one or more PNG files each with >=1 subplots.
+The code in `parallel_jobs` follows a master-slaves model whereby the master loads a config file describing the task at hand (e.g. where the raw data is, plotting parameters etc) and fires up the required number of workers to each work on a certain subplot. Ultimately the result is one or more PNG files each with >=1 subplots.
 
 The workers can be fired up on seperate cores on a single machine or seperate nodes in a HPC (grid computing) environment using MPI.
 
